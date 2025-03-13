@@ -9,11 +9,11 @@
 
 Sou fisioterapeuta de formação e estou migrando para a área tech, focada no desenvolvimento front-end. Atualmente, estou aprimorando minhas habilidades com HTML, CSS, JavaScript e frameworks modernos.
 
-🛠️ Tecnologias em aprendizado
+🛠️ Tecnologias aprendidas: 
 
 HTML | CSS | JavaScript
 
-React | Vue.js | Cypress (em breve)
+React | Vue.js | Cypress 
 
 Versionamento com Git & GitHub
 
