@@ -8,7 +8,7 @@
 🚀 Sobre mim
 - 🎯 Estudante de Análise e desenvolvimento de Sistemas.
 - 🎯 Estagiária de QA.
-- 🧪 Finalizei curso focado em **Testes de Software**, aprofundando meu conhecimento em **criar cenários de teste, testes manuais e automatizados**, **Cypress**, **Postman**, **Teste k6**, **Selenium**, **Jira**, ** BDD (Behavior Driven Development) entre outras ferramentas essenciais para garantir a qualidade das aplicações.
+- 🧪 Finalizei curso focado em **Testes de Software**, aprofundando meu conhecimento em **criar cenários de teste, testes manuais e automatizados**, **Cypress**, **Postman**, **Teste k6**, **Selenium**, **Jira**, ** BDD (Behavior Driven Development) ** entre outras ferramentas essenciais para garantir a qualidade das aplicações.
 - 🎯 Estou finalizando um curso de **Desenvolvimento Front-End**, onde venho adquirindo habilidades com **HTML**, **CSS**, **JavaScript**, **React** e boas práticas de desenvolvimento.
 - 📚 Curiosa e apaixonada por aprender coisas novas, sempre buscando evoluir na área tech.
 
@@ -21,7 +21,7 @@
 
 ## 💡 Em busca de
 
-- Oportunidades para contribuir em projetos que envolvam QA.
+- Oportunidades como QA Júnior para contribuir com excelência e seguir evoluindo em meus conhecimentos. 
 - Networking com pessoas da área de tecnologia.
 
 
