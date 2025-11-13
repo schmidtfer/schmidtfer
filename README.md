@@ -1,30 +1,25 @@
-
 👋 Olá, eu sou a Fernanda!
 
-🔄 Em transição de carreira para tecnologia
-🎯 Finalizei curso voltado a Testes de Software, onde pude ampliar minha base de conhecimento e prática na área de Qualidade de Software, com foco em garantir entregas mais confiáveis, eficientes e alinhadas às expectativas dos usuários.
+🚀 Sobre mim:
+🎯 Estudante de Análise e Desenvolvimento de Sistemas e Estagiária de QA.
+🎯 Concluí o curso de Testes de Software Avançado, onde adquiri experiência desde os conceitos fundamentais até a automação de testes Web, API, Mobile e Performance. Essa formação fortaleceu minha base em Qualidade de Software, com foco em garantir entregas confiáveis, eficientes e alinhadas às expectativas dos usuários.
+🎯 Estou finalizando o curso de Desenvolvimento Front-End, desenvolvendo habilidades com HTML, CSS, JavaScript, React e boas práticas de desenvolvimento.
+📚 Curiosa, apaixonada por tecnologia e aprendizado contínuo, sempre em busca de evolução na área de QA e Desenvolvimento.
 
+🛠️ Tecnologias e Ferramentas:
+Testes Manuais: Funcional, Regressão, Integração, Smoke Test, APis RESTful, Postman
+Automação Web: Cypress, Robot Framework, Selenium
+Automação de APIs RESTful: Cypress, SuperTest + Jest, Rest Assured
+Automação Mobile: Maestro
+Teste de Performance: k6
+Front-End: HTML, CSS, JavaScript, ReactJS, Vue
+Versionamento: Git & GitHub
+CI/CD: GitHub Actions (básico)
+Metodologias Ágeis: Scrum, Kanban
+Verificação de Logs: Grafana, DevTools
+Gerenciamento: Jira
 
-🚀 Sobre mim
-- 🎯 Estudante de Análise e desenvolvimento de Sistemas.
-- 🎯 Estagiária de QA.
-- 🧪 Finalizei curso focado em **Testes de Software**, aprofundando meu conhecimento em **criar cenários de teste, testes manuais e automatizados**, **Cypress**, **Postman**, **Teste k6**, **Selenium**, **Jira**, ** BDD (Behavior Driven Development) ** entre outras ferramentas essenciais para garantir a qualidade das aplicações.
-- 🎯 Estou finalizando um curso de **Desenvolvimento Front-End**, onde venho adquirindo habilidades com **HTML**, **CSS**, **JavaScript**, **React** e boas práticas de desenvolvimento.
-- 📚 Curiosa e apaixonada por aprender coisas novas, sempre buscando evoluir na área tech.
+💡 Em busca de Oportunidades como QA, contribuindo com qualidade e excelência no desenvolvimento de software.
+    Networking e trocas de conhecimento com profissionais da área de tecnologia.
 
-## 🛠️ Tecnologias e Ferramentas
-
-- **Front-End:** HTML, CSS, JavaScript, ReactJs, Vue
-- **Testes:** Manual (caixa preta), Cypress, API Rest, Postman, Selenium (este útlimo em aprendizado)
-- **Versionamento:** Git & GitHub
-- **CI/CD:** GitHub Actions (básico)
-
-## 💡 Em busca de
-
-- Oportunidades como QA Júnior para contribuir com excelência e seguir evoluindo em meus conhecimentos. 
-- Networking com pessoas da área de tecnologia.
-
-
-📌 Aqui no meu GitHub, você encontrará projetos, desafios e experimentos enquanto evoluo nessa jornada!
-
-Vamos trocar experiências? Me chama por aqui ou no LinkedIn! 🚀
+📌 Aqui no meu GitHub, você encontrará projetos, desafios e experimentos que refletem minha evolução na jornada tech.
